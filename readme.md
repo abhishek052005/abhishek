@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+Ayush+Jha!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+MERN+Stack+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+Abhishek+Tiwari!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+MERN+Stack+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
 </div>
 
  <!-- Simple view counter -->
-   <img  align="right" src="https://komarev.com/ghpvc/?username=AyushJha2008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+   <img  align="right" src="https://komarev.com/ghpvc/?username=abhishek052005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </h1>
 
 ###
