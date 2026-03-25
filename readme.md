@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,tensorflow,sklearn,git,github,vscode,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vercel,tensorflow,sklearn,git,github,vscode&perline=5" />
 </div>
 
 ###
