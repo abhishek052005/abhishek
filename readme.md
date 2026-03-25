@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+Abhishek+Tiwari!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+MERN+Stack+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+Abhishek+Tiwari!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Machine+Learning+Engineer+%7C+AI+Model+Architect+%7C+Data+Science+Enthusiast&descAlignY=55&descAlign=50"/>
 </div>
 
  <!-- Simple view counter -->
@@ -19,9 +19,7 @@
   <br><br>
    <b>Mission:</b> To develop AI-driven solutions that solve real-world problems and push the boundaries of human-computer interaction.
   <br><br>
-  <i>Beyond the code: I’m a chess enthusiast and a part-time poet finding rhythm in logic.</i>
-</h4>
-###
+  
 
 <h2 align="left"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RsMjk1b2YycG1nczY4eGZrc3BjOTNrMWE2OHQzY25hcHE1MHdqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ineNOtKIAII5aJ5F8/giphy.gif" width="20"> My Arsenal<br></h2>
 
@@ -40,7 +38,6 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-tiwari-795356381/)
-  
   [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishektiwari8134@gmail.com)
 
 </div>
